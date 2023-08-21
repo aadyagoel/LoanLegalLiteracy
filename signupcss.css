@@ -1,0 +1,11 @@
+.container {
+    border: 1px solid black;
+    height: 200px;
+    position: relative;
+  }
+
+  button {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+  }
